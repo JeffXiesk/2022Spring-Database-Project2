@@ -1,7 +1,7 @@
 <template>
   <div class="aboutpage">
-    <h1>This is our 2022Spring Database project2</h1>
-    <h2>Created by Xie Shaokang, Yang Yixuan on 2022-05</h2>
+    <h1>This is my 2022Spring Database project2</h1>
+    <h2>Created by Xie Shaokang on 2022-05</h2>
   </div>
   <div>
     <el-icon>
