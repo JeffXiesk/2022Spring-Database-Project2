@@ -21,7 +21,7 @@
 
 #### Home Scene 
 
-<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220922151045913.png" alt="image-20220922151045913" style="zoom:67%;" />
+<img src="img\image-20220922151045913.png" alt="image-20220922151045913" style="zoom:67%;" />
 
 - At the top of the site, using element ui, we design a menu to implement the operation of loading or present data.
 
@@ -31,8 +31,8 @@
 
 #### Some example pages
 
-![image-20220922151454907](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220922151454907.png)
+![image-20220922151454907](img\image-20220922151454907.png)
 
-![image-20220922151547858](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220922151547858.png)
+![image-20220922151547858](img\image-20220922151547858.png)
 
-![image-20220922151611235](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220922151611235.png)
+![image-20220922151611235](img\image-20220922151611235.png)
